@@ -14,7 +14,7 @@
 
     </header>
     <?php include_once '_parts/_header.php'; ?>
-    <div class="p-5 text-center bg-light" style="margin-top: 58px;">
+    <div class="p-5 text-center" style="margin-top: 58px;">
 
     </div>
     <?php include '_parts/_linkJS.php'; ?>

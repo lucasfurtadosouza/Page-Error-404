@@ -10,7 +10,7 @@
 <body>
     <div class="p-5 text-center ">
         <div>
-            <img src="Images/Alert.png" style="width: 500px; margin-top:80px; margin-bottom:30px;"/>
+            <img src="Images/Alert.png" style="width: 500px; margin-top:30px; margin-bottom:30px;"/>
         </div>
         <div style="margin-bottom:50px;">
             <img src="Images/Error.png" style="width: 85px; display:inline; margin-bottom:-100px; margin-right: 215px;"/>
